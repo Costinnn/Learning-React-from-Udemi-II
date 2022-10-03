@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a mini-project where I learnt about components in React. You can search for different 'monsters' using their names in the search box.
+
+![project photo](https://user-images.githubusercontent.com/103998434/193519812-f12bf125-41db-472c-bac1-d2555d4b3942.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
